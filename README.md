@@ -3,7 +3,7 @@ Mamba.ru API wrapper for node.js. It cares single dependency (md5).
 
 ## Installation
 
-> npm i -s mamba
+> npm i --save mamba
 
 ## Usage
 
@@ -11,7 +11,7 @@ Initialize.
 
 ```
 var MambaApi = require("mamba");
-var mamba = new MambaApi(appId, appSecret);
+var mamba = new MambaApi(appId, appSecret[, appPrivate]);
 ```
 
 Then use it like this:

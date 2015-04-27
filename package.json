@@ -1,6 +1,6 @@
 {
   "name": "mamba",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mamba.ru API wrapper for node.js",
   "main": "index.js",
   "directories": {
